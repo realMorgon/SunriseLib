@@ -5,13 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.realMorgon</groupId>
-    <artifactId>sunriselib</artifactId>
+    <artifactId>SunriseLib</artifactId>
     <version>0.0.5</version>
     <packaging>jar</packaging>
 
     <name>sunriselib</name>
     <description>Handy library for Spigot plugins</description>
-    <url>https://github.com/realMorgon/sunriselib</url>
+    <url>https://github.com/realMorgon/SunriseLib</url>
     <licenses>
         <license>
             <name>Apache License, Version 2.0</name>
@@ -25,9 +25,9 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git://github.com/realMorgon/sunriselib.git</connection>
-        <developerConnection>scm:git:ssh://github.com/realMorgon/sunriselib.git</developerConnection>
-        <url>https://github.com/realMorgon/sunriselib</url>
+        <connection>scm:git:git://github.com/realMorgon/SunriseLib.git</connection>
+        <developerConnection>scm:git:ssh://github.com/realMorgon/SunriseLib.git</developerConnection>
+        <url>https://github.com/realMorgon/SunriseLib</url>
     </scm>
 
     <properties>
