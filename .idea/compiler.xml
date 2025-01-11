@@ -9,5 +9,8 @@
         <module name="sunriselib" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SunriseLib" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>
