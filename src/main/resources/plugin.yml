@@ -1,0 +1,8 @@
+name: SunriseLib
+version: '0.0.1'
+main: io.github.realMorgon.sunriseLib.SunriseLib
+api-version: '1.21'
+prefix: SunriseLib
+load: STARTUP
+authors: [ Morgon ]
+description: A Library for Spigot plugins that provides little tweaks to speed up developing and to clean up code
