@@ -4,6 +4,8 @@
 ![Library](https://img.shields.io/badge/Type-Library-blue)
 ![Java](https://img.shields.io/badge/language-Java-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
+[![](https://jitpack.io/v/realMorgon/SunriseLib.svg)](https://jitpack.io/#realMorgon/SunriseLib)
+
 
 SunriseLib ist eine Bibliothek für [Spigot](https://www.spigotmc.org/)-Plugins, die Entwicklern dabei hilft, die Entwicklung zu beschleunigen und sauberen, wartbaren Code zu schreiben. Sie bietet nützliche Funktionen und Tweaks, die häufig wiederkehrende Aufgaben erleichtern.
 
