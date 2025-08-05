@@ -10,6 +10,17 @@ public class Message {
      * Send a message to all online players
      *
      * @param message The message to send
+     */
+    public static void sendToAllPlayers(String message) {
+        for (Player player : SunriseLib.getPlugin().getServer().getOnlinePlayers()) {
+            player.sendMessage(message);
+        }
+    }
+
+    /**
+     * Send a message to all online players
+     *
+     * @param message The message to send
      * @param players The players to send the message to
      */
     public static void sendToSpecificPlayers(String message, Player... players) {

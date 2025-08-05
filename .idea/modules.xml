@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SunriseLib.iml" filepath="$PROJECT_DIR$/SunriseLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SunriseLib.iml" filepath="$PROJECT_DIR$/.idea/SunriseLib.iml" />
     </modules>
   </component>
 </project>

@@ -1,6 +1,8 @@
 package io.github.realMorgon.sunriseLib;
 
+import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
+
 
 public final class SunriseLib extends JavaPlugin {
 
@@ -9,6 +11,7 @@ public final class SunriseLib extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
+        Bukkit.getLogger().info("Beep boop beep beep boop!");
 
     }
 
