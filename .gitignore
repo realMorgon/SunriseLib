@@ -1,2 +1,6 @@
 /target
-/.idea/discord.xml
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
